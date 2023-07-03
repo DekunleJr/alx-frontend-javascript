@@ -1,1 +1,1 @@
-# alx-frontend-javascript
+#This directory is for alx-frontend-javascript
